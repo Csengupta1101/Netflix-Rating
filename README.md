@@ -46,5 +46,11 @@ The project revolves around Netflix shows and movies around the world. The probl
   2. The boradcaster should only be Sir David Attenborough.
   3. It would be an icing of the cake if the real life scenario discussed here involves mysterious , ghostly , adultrey affaiars surround a couple living in a small town outside states.
 
+> Apart from USA , India , Uk both leads the chart in terms of viewrship of Netflix worldwide.
+
+
+# **Conclusion**
+
+I hope you'll find this findings useful. Let me know your thoughts and in case if you have any input to offer here.
 
 
