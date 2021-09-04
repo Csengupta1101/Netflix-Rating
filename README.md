@@ -33,8 +33,14 @@ The project revolves around Netflix shows and movies around the world. The probl
 # **Findings**
 
 > The average rating of a movie is higher than the average rating of a Tv series , among all age groups. Now this can lead to multiple theories.The most ideal would be the time factor taken into consideration , A movies does get to a conclusive phase in a matter of couple of hours or may be a day if it's a woody allen film while to reach a conclusive phase a tv series takes 3 , 5 years. Not all showmakers are as brilliant as david crane and Martha Kaufman to keep audinece hooked for a decade and even two decades after the end of the show.  
+
+
 > Going by the dataset and ofcourse by own experience it can be safely said that Documentary is a genre where Netflix doesn't have a competitor. At all. And yes our data screams the same as well.
+
+
 > Following up with our last statement a much related finding should inetrest everyone. The majority of netflix shows(read - documentary) runs with the voice of Sir David Attenborough. His broadcasting impacts everyone , form north to south pole.
+
+
 > Well the findings suggest the Hit show receipe something like this -
   1. Ofcourse it needs to be a documentary based on a real life event.
   2. The boradcaster should only be Sir David Attenborough.
